@@ -1,0 +1,67 @@
+/* Add your responsive styles here */
+
+/* Media Queries */
+@media (max-width: 768px) {
+  /* Adjustments for mobile devices */
+  .main {
+    height: auto;
+    padding: 40px;
+  }
+  
+  .area h1 {
+    font-size: 36px;
+  }
+  
+  .area h3 {
+    font-size: 18px;
+  }
+  
+  .search {
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  .box {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .try {
+    margin-left: 0;
+  }
+  
+  .container1 {
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  .container1 h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .container1 p {
+    font-size: 14px;
+  }
+  
+  .question {
+    padding: 20px;
+  }
+  
+  .quest .textbox {
+    font-size: 18px;
+  }
+  
+  .footer {
+    padding: 20px;
+  }
+  
+  .end {
+    padding: 10px;
+  }
+  
+  .end h2 {
+    font-size: 14px;
+  }
+}
+
